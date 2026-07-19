@@ -1,6 +1,6 @@
 # 📈 Financial Portfolio Optimizer
 
-A quantitative finance project that applies **Modern Portfolio Theory (MPT)** and **Monte Carlo Simulation** to identify an optimal portfolio allocation by maximizing the **Sharpe Ratio** using historical market data.
+A Quant based application that applies **Modern Portfolio Theory (MPT)** and **Monte Carlo Simulation** to identify an optimal portfolio allocation by maximizing the **Sharpe Ratio** using historical market data.
 
 ---
 
