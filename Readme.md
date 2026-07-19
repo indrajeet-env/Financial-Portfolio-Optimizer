@@ -1,29 +1,39 @@
-# FINANCIAL PORTFOLIO OPTIMIZER
+# 📈 Financial Portfolio Optimizer
 
-## Overview
+A quantitative finance project that applies **Modern Portfolio Theory (MPT)** and **Monte Carlo Simulation** to identify an optimal portfolio allocation by maximizing the **Sharpe Ratio** using historical market data.
 
-This project is a Python-based Financial Portfolio Optimizer that simulates and analyzes various investment strategies using Monte Carlo simulations (Stochastic Models). It is designed to help users understand portfolio risk and returns in a user-friendly way.
+---
 
-## Key Features
+## Live Demo
 
-- Monte Carlo Simulation to generate multiple investment scenarios
-- Real-time stock data fetched using yfinance API
-- Local data storage with SQLite3
-- Interactive GUI built with Tkinter
-- Financial metrics calculated:
-   1. Portfolio Returns
-   2. Standard Deviation
-   3. Sharpe Ratio
-- Optimal portfolio identification based on risk-return connection.
+🌐 **Live Demo:** [Launch Application](https://financial-portfolio-optimizer-monte-carlo.streamlit.app/)
 
-## Technologies Used
+---
+
+## Built With
 
 - Python
-- yfinance
-- SQLite3
-- Tkinter
-- Matplotlib
+- FastAPI
+- Streamlit
+- NumPy
+- Pandas
+- SciPy
+- Plotly
+- Yahoo Finance
 
-## Learning Outcome
+---
 
-While AI tools assisted in code generation, we conducted extensive research on financial theories and stochastic models to ensure the logic was well understood and practically applicable. This helped us create a realistic and insightful portfolio optimization tool.
+## Highlights
+
+- Modern Portfolio Theory (MPT)
+- Monte Carlo Simulation for portfolio optimization
+- Maximum Sharpe Ratio portfolio selection
+- Portfolio risk, expected return & Sharpe ratio analysis
+- Interactive asset allocation visualization
+- CSV export of optimized allocations
+
+---
+
+## Preview
+
+![Dashboard](images/dashboard.png)
